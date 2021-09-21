@@ -1,0 +1,161 @@
+/*#E4F9F5*/
+
+body{
+  margin : 0;
+  text-align: center;
+  font-family: 'Open Sans',sans-serif;  /*font-family: Merriweather 'Open Sans';*/
+  color: #40514E;
+}
+
+h1{
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 81px;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  line-height: 3;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  line-height: 2;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+hr{
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  height: 1px;
+  border-color: grey;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.line{
+  border-color: #66BFBF;
+  border-style: none;
+  border-top-style: solid;
+  height: 1px;
+  width: 100%;
+  margin: 0;
+}
+
+.av{
+  margin-top: 10px;
+  font-size: 1.5rem;
+  font-weight: normal;
+  line-height: normal;
+}
+
+.disc{
+  width: 40%;
+  display: inline-block;
+}
+
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+  width: 50%;
+}
+
+.profile{
+  margin-top: 20px;
+  height: 180px;
+  width: 180px;
+}
+.left{
+  float: left;
+  height: 190px;
+  width: 210px;
+  border-radius: 100%;
+  margin-right: 20px;
+}
+.right{
+  float: right;
+  height: 190px;
+  width: 240px;
+  margin-left: 20px;
+}
+
+.profile{
+  height: 190px;
+  width: 190px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.bottomcloud{
+  position: absolute;
+}
+
+.topcloud{
+  position: absolute;
+  right: 240px;
+  top: 15px;
+}
+
+.top{
+  background-color : #E4F9F5;
+  position: relative;
+  padding: 60px;
+}
+
+.bottomcloud{
+  left: 160px;
+  bottom: 50px;
+}
+
+.btn{
+   background: #66BFBF;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Montserrat';
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 20px;
+}
+
+.di{
+  display: inline-block;
+  width: 50%;
+}
+
+.bottom-container{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #66BFBF;
+}
+
+.footer-link{
+  margin-left: 20px;
+}
+
+.footer{
+  color:  #EAF6F6;
+}
